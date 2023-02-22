@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f506645.css",
+    "main.js": "/static/js/main.f7ae71f5.js",
+    "static/media/games-settings-wired.png": "/static/media/games-settings-wired.09e50c79b4eb29b5b91c.png",
+    "static/media/Ukrain.jpg": "/static/media/Ukrain.60b637f70859f2600c95.jpg",
+    "static/media/code-editoren-t.jpg": "/static/media/code-editoren-t.b5a739c582269894436b.jpg",
+    "static/media/hitler.jpg": "/static/media/hitler.3d0516197cfb95257666.jpg",
+    "static/media/calculator_icon.png": "/static/media/calculator_icon.40143b2824bd5f38e3dd.png",
+    "static/media/viktor-korneplod.jpg": "/static/media/viktor-korneplod.4db7da62b806144b0508.jpg",
+    "static/media/Shreks.jpg": "/static/media/Shreks.43e9649b7c8444ec9e6a.jpg",
+    "static/media/Armenia.jpg": "/static/media/Armenia.b1e64375cc7fe4cbe482.jpg",
+    "static/media/download.jpeg": "/static/media/download.2ac3c0135cc77bdd2750.jpeg",
+    "static/media/Папич.jpg": "/static/media/Папич.d5712da96bad4a347117.jpg",
+    "static/media/KoshkaJena.jpg": "/static/media/KoshkaJena.1eaa070fd60cefeedfb8.jpg",
+    "static/media/free-icon-settings-455515.png": "/static/media/free-icon-settings-455515.9ef66aca282b93947e29.png",
+    "static/media/china.jpg": "/static/media/china.64168d484d788da45623.jpg",
+    "index.html": "/index.html",
+    "main.0f506645.css.map": "/static/css/main.0f506645.css.map",
+    "main.f7ae71f5.js.map": "/static/js/main.f7ae71f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f506645.css",
+    "static/js/main.f7ae71f5.js"
+  ]
+}
